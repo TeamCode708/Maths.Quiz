@@ -1,4 +1,4 @@
 //File Name Is - Home.js
 function loginBtn() {
-    window.location=("Log In.html");
+    window.location=("Log In.index.html");
 }

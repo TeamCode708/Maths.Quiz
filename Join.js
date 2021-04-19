@@ -8,6 +8,6 @@ function addUser() {
         document.getElementById("warning_msg_hidden").style.visibility = "visible";
     }
     else {
-        window.location = "Game Page.html";
+        window.location = "Game Page.index.html";
     }    
 }
